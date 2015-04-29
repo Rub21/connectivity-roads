@@ -2,7 +2,6 @@ var fs = require('fs');
 var obj = JSON.parse(fs.readFileSync('cities.geojson', 'utf8'));
 var OSRM = require('osrm');
 var osrm = new OSRM("nepal.osrm");
-//var osrm = new OSRM("http://localhost:8888");
 
 function SortByName(x, y) {
 	return ((x.properties.name == y.properties.name) ? 0 : ((x.properties.name > y.properties.name) ? 1 : -1));
