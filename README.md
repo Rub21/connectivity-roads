@@ -1,1 +1,4 @@
 # connectivity-roads
+
+Filtrar
+name:Baitadi| name:Barhabise|name:Bhairahawa|name:Biratnagar|name:Birendranagar|name:Birganj|name:Butwal|name:Chandragadhi|name:Chautara|name:Dailekh|name:Dhangadhi|name:Dhankuta|name:Dharan|name:Dhulikhel|name:Dhunche|name:Dipayal|name:Gaighat|name:Gorkha|name:Hetauda|name:Ilam|name:Janakpur|name:Jiri|name:Kakarbhitta|name:Kathmandu|name:Kodari|name:Krishnanagar|name:Lumbini|name:Mahendranagar|name:Narayanghat|name:Nepalgunj|name:Pokhara|name:Rajbiraj|name:Salyan|name:Sindhulimadhi|name:Tansen|name:Taplejung|name:Terhathum|name:Trishuli Bazar|name:Tulsipur|name:Baglung
